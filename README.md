@@ -1,6 +1,6 @@
 Hi there 👋
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shoomuw)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=)
 <!--
 **shoomuw/shoomuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
